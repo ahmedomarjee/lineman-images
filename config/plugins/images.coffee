@@ -15,3 +15,9 @@ module.exports = (lineman) ->
 
       dist:
         dest: "dist"
+
+  files:
+    img:
+      app: "app/img/**/*.*"
+      vendor: "vendor/img/**/*.*"
+      root: "img"
