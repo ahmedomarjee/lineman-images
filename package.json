@@ -1,0 +1,40 @@
+{
+  "name": "lineman-images",
+  "description": "A Less plugin for Lineman to copy images",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ahmedomarjee/lineman-images",
+  "author": {
+    "name": "Ahmed Omarjee",
+    "email": "aomarjee@gmail.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedomarjee/lineman-images.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmedomarjee/lineman-images/issues"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "coffee-script": "~1.7.1"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.27.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-release": "^0.7.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://testdouble.mit-license.org"
+    }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin"
+  ]
+}
