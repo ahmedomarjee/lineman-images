@@ -18,6 +18,6 @@ module.exports = (lineman) ->
 
   files:
     img:
-      app: "app/img/**/*.*"
+      app: "src/img/**/*.*"
       vendor: "vendor/img/**/*.*"
       root: "img"
